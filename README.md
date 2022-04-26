@@ -1,1 +1,1 @@
-# curso-practico-javascript
+Bienvenidos a el curso practico de Java
